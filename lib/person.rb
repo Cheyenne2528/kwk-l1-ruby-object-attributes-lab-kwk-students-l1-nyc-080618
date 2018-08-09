@@ -1,5 +1,5 @@
 # person.rb
 class Person 
-  @name 
-  @job
+  @name = #name
+  @job = #job
 end
