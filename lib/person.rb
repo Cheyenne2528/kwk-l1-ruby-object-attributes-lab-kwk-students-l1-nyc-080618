@@ -15,4 +15,5 @@ def name
   
   def job=(job)
   @job = job
+  end
 end 
