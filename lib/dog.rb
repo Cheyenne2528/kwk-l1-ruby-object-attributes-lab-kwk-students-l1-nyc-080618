@@ -1,5 +1,5 @@
 # dog.rb
 class Dog 
-  @name 
-  @breed
+  @name = #name
+  @breed = 
 end 
